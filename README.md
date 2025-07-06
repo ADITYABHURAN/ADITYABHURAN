@@ -67,4 +67,4 @@ Currently working on:
 
 ---
 
-<p align="center">“Code, break, fix, repeat — that’s how we grow.” 🌱</p>
+<p align="center">“Code, break, fix, repeat that’s how we grow.” 🌱</p>
