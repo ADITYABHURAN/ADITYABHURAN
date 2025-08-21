@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Aditya Bhuran</h1>
 <p align="center">
-  🚀  Full Stack Developer in the making | 📍 NYC & 🇮🇳 | 🧠 Learning by Building
+  🚀 Full Stack Developer in the making | 📍 NYC & 🇮🇳 | 🧠 Learning by Building
 </p>
 
 <p align="center">
@@ -60,10 +60,22 @@ Currently working on:
 
 ---
 
-### 🔥 Contribution Stats (Like ErduE’s Style)
+### 🔥 Contribution Stats
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ADITYABHURAN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+### 🐍 Snake Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITYABHURAN/ADITYABHURAN/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADITYABHURAN/ADITYABHURAN/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ADITYABHURAN/ADITYABHURAN/output/snake.svg" />
+  </picture>
 </p>
 
 ---
