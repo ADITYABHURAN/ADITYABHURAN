@@ -55,16 +55,24 @@ Currently working on:
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ADITYABHURAN&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYABHURAN&theme=tokyo-night&area=true" />
+</p>
+
+---
+
+### 🔥 Contribution Stats (Like ErduE’s Style)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ADITYABHURAN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/adityabhuran](https://linkedin.com/in/adityabhuran)
-- GitHub: [@ADITYABHURAN](https://github.com/ADITYABHURAN)
+- LinkedIn: [linkedin.com/in/adityabhuran](https://linkedin.com/in/adityabhuran)  
+- GitHub: [@ADITYABHURAN](https://github.com/ADITYABHURAN)  
 
 ---
 
-<p align="center">“Code, break, fix, repeat that’s how we grow.” 🌱</p>
+<p align="center">“Code, break, fix, repeat — that’s how we grow.” 🌱</p>
