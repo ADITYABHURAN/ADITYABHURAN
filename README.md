@@ -1,6 +1,18 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="300" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="350" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0ExhJzQ3jQX2v1KM/giphy.gif" width="300" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="300" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/1n92hSgOq8KZjzUbkA/giphy.gif" width="350" />
+</p>
 
 <h1 align="center">Hi there 👋, I'm Aditya Bhuran</h1>
 <p align="center">
