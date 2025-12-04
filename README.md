@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="300" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Aditya Bhuran</h1>
 <p align="center">
-  🚀 Full Stack Developer in the making | 📍 NYC & 🇮🇳 | 🧠 Learning by Building
+   📍 NYC & 🇮🇳 | 🧠 Learning by Building
 </p>
 
 <p align="center">
