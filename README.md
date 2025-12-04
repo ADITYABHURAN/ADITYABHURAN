@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Aditya+Bhuran;Full+Stack+Developer+in+the+Making;Always+Learning+%26+Building!" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Aditya Bhuran</h1>
