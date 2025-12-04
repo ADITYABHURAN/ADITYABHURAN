@@ -1,9 +1,9 @@
+<h1 align="center">Hi there 👋, I'm Aditya Bhuran</h1>
 
 <p align="center">
-  <img src="https://github.com/AdityaJaiswal19/hosted-assets/blob/main/vader-breathing.gif?raw=true" width="300" />
+  <img src="https://raw.githubusercontent.com/AdityaJaiswal19/hosted-assets/main/vader-breathing.gif" width="300" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Aditya Bhuran</h1>
 <p align="center">
    📍 NYC & 🇮🇳 | 🧠 Learning by Building
 </p>
