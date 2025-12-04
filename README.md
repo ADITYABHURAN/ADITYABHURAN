@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://github.com/AdityaJaiswal19/hosted-assets/blob/main/hyperspace.gif?raw=true" width="350" />
+  <img src="https://github.com/AdityaJaiswal19/hosted-assets/blob/main/vader-breathing.gif?raw=true" width="300" />
 </p>
+
 <h1 align="center">Hi there 👋, I'm Aditya Bhuran</h1>
 <p align="center">
    📍 NYC & 🇮🇳 | 🧠 Learning by Building
