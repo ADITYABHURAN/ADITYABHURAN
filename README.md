@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Aditya+Bhuran;Full+Stack+Developer+in+the+Making;Always+Learning+%26+Building!" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZyYzM3a2QxOTM1bGdmcHFnY3gwN3VjZ2w2c2VjbHk4YjhuYmFpdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gf8VfDrZh0CwU/giphy.gif" width="300" alt="Star Wars GIF" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Aditya Bhuran</h1>
