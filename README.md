@@ -10,6 +10,9 @@
   <em style="font-size: 18px;">“I build intelligent systems and glitch-proof experiences.”</em>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=ADITYABHURAN&label=Profile+Views&color=brightgreen&style=for-the-badge" />
+
+
 ---
 
 ## ⚡ Neon Bio
