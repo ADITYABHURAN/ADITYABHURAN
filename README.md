@@ -1,79 +1,77 @@
-<h1 align="center">Hi there 👋, I'm Aditya Bhuran</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=1000&color=00FFF9&center=true&vCenter=true&repeat=false&width=600&lines=Aditya+Bhuran+%E2%9A%A1" />
+</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaJaiswal19/hosted-assets/main/vader-breathing.gif" width="300" />
+  <img src="https://img.shields.io/badge/CYBERPUNK-DEVELOPER-FF00FF?style=for-the-badge&logo=hackthebox&logoColor=00fff9" />
 </p>
 
 <p align="center">
-   📍 NYC & 🇮🇳 | 🧠 Learning by Building
-</p>
-
-<p align="center">
-  <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/📄 View%20My%20Resume-blue?style=for-the-badge" alt="Resume">
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/💼 Hire%20Me-orange?style=for-the-badge" alt="Hire Me">
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ADITYABHURAN&label=Visitors&color=brightgreen&style=for-the-badge" alt="Profile views" />
+  <em style="font-size: 18px;">“I build intelligent systems and glitch-proof experiences.”</em>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I'm a passionate developer focused on building real-world web apps as I learn.  
-Currently working on:
+## ⚡ Neon Bio
 
-- 🔧 Bug Tracker with full QA workflow  
-- 🧠 DSA with JavaScript (LeetCode grind 💪)  
-- 💻 Chai aur Code Cohort Projects (Full Stack Dev)
-
----
-
-### 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,vscode,postman&theme=light" />
-</p>
+- 🌆 NYC × 🇮🇳 // Running on caffeine + curiosity  
+- 🤖 AI-Native Developer | Full Stack | Systems Thinker  
+- 🔥 Love building **LLM-powered tools**, **real-time dashboards**, and **problem-solving systems**  
+- 🧪 Constantly experimenting with **agents, embeddings, and edge AI**  
+- 🧠 MSCS (May 2026) — Focused on *AI systems, distributed computing, and developer tools*  
 
 ---
 
-### 📊 GitHub Stats
+## 💾 Tech Stack / Loadout
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADITYABHURAN&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYABHURAN&theme=tokyonight" width="48%" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,git,linux,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-### 🧠 Top Skills
+## 🛠️ Projects from the Neon Grid
+
+### **IrisGuard 👁️ — Biometric Access System**
+> Cybersecure identity via iris-scan pattern matching  
+**Stack:** Python · OpenCV · Flask
+
+### **FraudDetect ⚠️ — ML Fraud Pipeline**
+> Adaptive model preventing real-time financial anomalies  
+**Stack:** Python · Scikit-learn · Pandas
+
+### **Sketch2Art 🎨 — AI Image Generation**
+> Turns rough sketches → clean images using diffusion models  
+**Stack:** Diffusers · FastAPI · Python
+
+### **BugHive 🪲 — QA Workflow System**
+> Cyberpunk UI + complete issue lifecycle automation  
+**Stack:** React · Node.js · MongoDB
+
+---
+
+## 🎛️ System Stats (Neon Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYABHURAN&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADITYABHURAN&show_icons=true&theme=tokyonight&title_color=00FFF9&icon_color=FF00FF&text_color=C1F7FF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYABHURAN&theme=tokyonight&ring=FF00FF&fire=00FFF9&currStreakLabel=00FFF9" width="48%" />
 </p>
-
----
-
-### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYABHURAN&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYABHURAN&theme=tokyo-night&area=true&color=00FFF9&line=FF00FF&point=00FFF9" />
 </p>
 
 ---
 
-### 🔥 Contribution Stats
+## 🧬 Code DNA (Top Languages)
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ADITYABHURAN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYABHURAN&layout=compact&theme=tokyonight&title_color=FF00FF&text_color=C1F7FF" width="48%" />
 </p>
 
 ---
 
-### 🐍 Snake Contributions
+## 🐍 Snake Contributions (unchanged)
 
 <p align="center">
   <picture>
@@ -85,11 +83,22 @@ Currently working on:
 
 ---
 
-### 📫 Connect With Me
+## 🔗 Connect to the Grid
 
-- LinkedIn: [linkedin.com/in/adityabhuran](https://linkedin.com/in/adityabhuran)  
-- GitHub: [@ADITYABHURAN](https://github.com/ADITYABHURAN)  
+<p align="center">
+  <a href="https://linkedin.com/in/adityabhuran">
+    <img src="https://img.shields.io/badge/LINKEDIN-00FFF9?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=0A0A0A" />
+  </a>
+  <a href="https://github.com/ADITYABHURAN">
+    <img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFF9" />
+  </a>
+</p>
 
 ---
 
-<p align="center">“Code, break, fix, repeat — that’s how we grow.” 🌱</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=2000&color=FF00FF&center=true&vCenter=true&width=500&lines=NEVER+STOP+BUILDING.;NEVER+STOP+BREAKING.;NEVER+STOP+LEARNING." />
+</p>
